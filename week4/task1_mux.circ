@@ -98,6 +98,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="0" loc="(700,320)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
+      <a name="label" val="LED_GREEN"/>
       <a name="labelloc" val="east"/>
     </comp>
     <comp lib="1" loc="(490,380)" name="AND Gate"/>
@@ -133,6 +134,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="0" loc="(700,260)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
+      <a name="label" val="LED_RED"/>
       <a name="labelloc" val="east"/>
     </comp>
   </circuit>
